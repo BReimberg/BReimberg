@@ -1,4 +1,4 @@
-### Oi, eu sou a Brenda Reimberg 🤓
+### Oi, eu sou a Brenda Reimberg
 <div>
   <a href="http://github.com/BReimberg"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breimberg&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
