@@ -1,4 +1,7 @@
-### Oi, eu sou a Brenda Reimberg
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Oi,+eu+sou+a+Brenda+Reimberg!!;Seja+bem+vindo(a)+ao+meu+perfil!!;Atualmente+estou+estudando+JS&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 <div>
   <a href="http://github.com/BReimberg"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breimberg&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
