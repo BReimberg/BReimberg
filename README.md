@@ -1,9 +1,7 @@
-========================================================================================
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Oi,+eu+sou+a+Brenda+Reimberg!!;Bem+vindo(a)+ao+meu+perfil!!;Hi,+I'm+Brenda+Reimberg!!;Welcome+to+my+profile!!;Hola,+soy+Brenda+Reimberg!!;Bienvenido+a+mi+perfil!!;Ciao,+sono+Brenda+Reimberg!!;Benvenuti+nel+mio+canale!!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
-========================================================================================
- 
+
 <div align="center">
 <h2>Historic GitHub</h2>
   <a href="http://github.com/BReimberg"></a>
