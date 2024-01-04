@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+a+Brenda+Reimberg!!;Bem+vindo(a)+ao+meu+perfil!!;Hi,+I'm+Brenda+Reimberg!!;Welcome+to+my+profile!!;Hola,+soy+Brenda+Reimberg!!;Bienvenido+a+mi+perfil!!;Ciao,+sono+Brenda+Reimberg!!;Benvenuti+nel+mio+canale!!)](https://git.io/typing-svg)
 
 <div>
-  <h1>Sobre Brenda Reimberg</h1>
+  <h2>Brenda Reimberg</h2>
   <p>
     Tenho 27 anos 😊. <br>
     Sou Técnica em Desenvolvimento de Sistemas 🎓💻.<br>
