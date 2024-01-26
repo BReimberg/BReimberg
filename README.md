@@ -54,4 +54,10 @@
   <a href="https://www.linkedin.com/in/brenda-dos-santos-reimberg-de-souza-4336a4158/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+#
+
+<div align="center">
+<img src="https://images.pond5.com/animated-studying-lo-fi-background-footage-234502952_iconl.jpeg"/>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=footer"/>
