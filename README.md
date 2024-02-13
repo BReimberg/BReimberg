@@ -31,6 +31,10 @@
     💻 Site do Zero - https://github.com/BReimberg/Projeto-Site-Zero
     <br><br>
     📈 Projeto IoT - https://github.com/BReimberg/Projeto_IoT
+    <br><br>
+    🦹‍♀️ BuzzFeed - https://github.com/BReimberg/angular-BuzzFeed
+    <br><br>
+    💻 Blog - https://github.com/BReimberg/angular-blog
   </p>
 </div>
 
