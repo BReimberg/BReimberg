@@ -9,7 +9,6 @@
     Sou Técnica em Desenvolvimento de Sistemas 🎓💻.<br>
     Estou no último ano do curso de Biblioteconomia 📚.<br>
     No momento estou estudando sobre Front-end com foco na linguagem de progamação JavaScript 📚.<br>
-    Tenho conhecimento básico nas linguagens de programação Java☕ e Python🐍. <br>
     Estou a procura da primeira oportunidade de trabalho na área de programação 💼.
   </p>
 </div>
