@@ -13,34 +13,11 @@
   </p>
 </div>
 
-<div>
-  <h3>Historic GitHub</h3>
-  <a href="http://github.com/BReimberg"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breimberg&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breimberg&layout=compact&langs_count=16&theme=synthwave"/>
-</div>
-
-<div>
-<h2>Portifólio</h2>
-  <p>
-    🐶🐱 Projeto PetShop - https://github.com/BReimberg/Projeto-Pet-Shop
-    <br><br>
-    ⌨ Gerador de Senhas - https://github.com/BReimberg/GeradorDeSenha
-    <br><br>
-    💻 Site do Zero - https://github.com/BReimberg/Projeto-Site-Zero
-    <br><br>
-    📈 Projeto IoT - https://github.com/BReimberg/Projeto_IoT
-    <br><br>
-    🦹‍♀️ BuzzFeed - https://github.com/BReimberg/angular-BuzzFeed
-    <br><br>
-    💻 Blog - https://github.com/BReimberg/angular-blog
-  </p>
-</div>
-
 #
 
-<div style="display: inline_block"><br>
-  <h3>Work Tools</h3>
+<div style="display: inline_block">
+  <div align="center">
+    <h3>Work Tools</h3>
     <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" alt="BOTSTAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -48,8 +25,30 @@
     <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align="center" alt="ANG" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  </div>
+</div><br><br>
+
+<div align="center">
+  <a href="http://github.com/BReimberg"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breimberg&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breimberg&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
 
+<div>
+<h2>Portifólio</h2>
+  <div align="center"> 
+    <a href="https://github.com/BReimberg/landing-page-3"><img src="https://github.com/BReimberg/landing-page-3/raw/main/assets/img/finalizado-1.png" width="250px" height="135"></a>
+     <a href="https://github.com/BReimberg/landing-page-2"><img src="https://github.com/BReimberg/landing-page-2/raw/main/assets/img/finlizado.png" width="250px" height="135"></a>
+    <a href="https://github.com/BReimberg/landing-page-1"><img src="https://github.com/BReimberg/landing-page-1/raw/main/assets/img/finalizado.png" width="250px" height="135"></a>
+    <a href="https://github.com/BReimberg/JavaScript-Jogo-da-Memoria"><img src="https://github.com/BReimberg/JavaScript-Jogo-da-Memoria/raw/main/assets/img/finalizado-jogo2.png" width="250px" height="135"></a>
+    <a href="https://github.com/BReimberg/Projeto-Pet-Shop"><img src="https://github.com/BReimberg/Projeto-Pet-Shop/blob/main/assets/image/petlife.png?raw=true" width="250px" height="135"></a>
+    <a href="https://github.com/BReimberg/Projeto-Site-Zero"><img src="https://github.com/BReimberg/Projeto-Site-Zero/raw/main/assets/img-README/site-1.png" width="250px" height="135"></a>
+    <a href="https://github.com/BReimberg/Projeto_IoT"><img src="https://private-user-images.githubusercontent.com/114779298/259495905-2534d2a4-2455-46dd-9c5b-da551d63c29d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk2NzMyMTAsIm5iZiI6MTcwOTY3MjkxMCwicGF0aCI6Ii8xMTQ3NzkyOTgvMjU5NDk1OTA1LTI1MzRkMmE0LTI0NTUtNDZkZC05YzViLWRhNTUxZDYzYzI5ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwNVQyMTA4MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNTI0NWQxOTkwOTkyZGQwODAyYzc3OGIwY2RkNGFhYmQyZjUzNjNiZmJmMTAzMTdkMGEzOWQxNGRkMmZhODE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.h1rvvHMoXy-BzNnYqtiYh7zp9ZmSA654JblzAGzce5c" width="250px" height="135"></a>
+    <a href="https://github.com/BReimberg/angular-BuzzFeed"><img src="https://github.com/BReimberg/angular-BuzzFeed/raw/main/src/assets/img/finalizado.png" width="250px" height="135"></a>
+     <a href="https://github.com/BReimberg/GeradorDeSenha"><img src="https://github.com/BReimberg/GeradorDeSenha/raw/main/assets/img-README/gerador-1.png" width="250px" height="135"></a>
+    <br><br>
+     <a href="https://github.com/BReimberg?tab=repositories"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=purple"></a>
+    
 #
 
 <div>
