@@ -8,6 +8,7 @@
     Tenho 27 anos 😊. <br>
     Sou Técnica em Desenvolvimento de Sistemas 🎓💻.<br>
     Estou no último ano do curso de Biblioteconomia 📚.<br>
+    Iniciante no curso de Análise e Desenvolvimento de Sistemas 📚💻
     No momento estou estudando sobre Front-end com foco na linguagem de progamação JavaScript 📚.<br>
     Estou a procura da primeira oportunidade de trabalho na área de programação 💼.
   </p>
