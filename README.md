@@ -5,7 +5,7 @@
 <div>
   <h3>Brenda Reimberg</h3>
   <p>
-    Tenho 27 anos 😊. <br>
+    Tenho 28 anos 😊. <br>
     Sou Técnica em Desenvolvimento de Sistemas 🎓💻.<br>
     Estou no último ano do curso de Biblioteconomia 📚.<br>
     Iniciante no curso de Análise e Desenvolvimento de Sistemas 📚💻<br>
