@@ -6,9 +6,8 @@
   <h3>Brenda Reimberg</h3>
   <p>
     Tenho 28 anos 😊. <br>
-    Sou Técnica em Desenvolvimento de Sistemas 🎓💻.<br>
-    Estou no último ano do curso de Biblioteconomia 📚.<br>
-    Iniciante no curso de Análise e Desenvolvimento de Sistemas 📚💻<br>
+    Sou Bacharel em Biblioteconomia e Técnica em Desenvolvimento de Sistemas 🎓💻.<br>
+    Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas 📚💻<br>
     No momento estou estudando sobre Front-end com foco na linguagem de progamação JavaScript 📚.<br>
   </p>
 </div>
